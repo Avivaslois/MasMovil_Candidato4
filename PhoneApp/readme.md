@@ -1,4 +1,4 @@
-# MasMovil CHALLENGE DotNet Core - Jose Antonio Pardos
+# MasMovil CHALLENGE DotNet Core - Candidato4
 
 ## SOLUTION
 
